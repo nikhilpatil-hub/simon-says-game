@@ -1,6 +1,5 @@
 let highScore = 0;
 let scoreBox = document.getElementById("score-box");
-// 
 
 let gameSeq = [];
 let userSeq = [];
